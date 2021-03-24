@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reportparser-dev-103641-authRole",
+      "UnauthRoleArn": "arn:aws:iam::060935377656:role/amplify-reportparser-dev-103641-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::060935377656:role/amplify-reportparser-dev-103641-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reportparser-dev-103641-deployment",
+      "UnauthRoleName": "amplify-reportparser-dev-103641-unauthRole",
+      "StackName": "amplify-reportparser-dev-103641",
+      "StackId": "arn:aws:cloudformation:us-east-1:060935377656:stack/amplify-reportparser-dev-103641/5a89a3a0-8cae-11eb-87cc-12bf92df32e3",
+      "AmplifyAppId": "d16k7recbbmio9"
+    }
+  }
+}

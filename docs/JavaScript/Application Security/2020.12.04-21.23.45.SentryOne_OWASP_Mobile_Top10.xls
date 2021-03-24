@@ -1,0 +1,2231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+		<Author/>
+		<Title/>
+		<Description/>
+		<Subject/>
+	</DocumentProperties>
+	<Styles>
+		<Style ss:ID="HyperlinkId" ss:Name="Hyperlink">
+			<Font ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="1">
+			<NumberFormat ss:Format="yyyy-M-d HH:mm:ss AM/PM"/>
+		</Style>
+		<Style ss:ID="44">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+			<Interior ss:Color="#efefef" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="39">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#ffffff"/>
+			<Interior ss:Color="#0096d6" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="33">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Underline="Single" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="45">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#ffffff"/>
+			<Interior ss:Color="#ca3f37" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="52">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+			<Interior ss:Color="#dbb604" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="55">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Italic="1" ss:Color="#87898b"/>
+		</Style>
+		<Style ss:ID="49">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="50">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="48">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+			<Interior ss:Color="#ff8c00" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="53">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Color="#87898b"/>
+		</Style>
+		<Style ss:ID="46">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Color="#000000"/>
+			<Interior ss:Color="#efefef" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="47">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+			<Interior ss:Color="#efefef" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="20">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#dddedd"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#0096d6"/>
+		</Style>
+		<Style ss:ID="27">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="34">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="23">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="26">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="29">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="30">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="###0.0"/>
+		</Style>
+		<Style ss:ID="31">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="40">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#ffffff"/>
+			<Interior ss:Color="#0096d6" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="42">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#ffffff"/>
+			<Interior ss:Color="#87898b" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="43">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#ffffff"/>
+			<Interior ss:Color="#87898b" ss:Pattern="Solid"/>
+			<NumberFormat ss:Format="###0.0"/>
+		</Style>
+		<Style ss:ID="38">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#ffffff"/>
+			<Interior ss:Color="#0096d6" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="35">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#c0c0c0"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="22">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#dddedd"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="16.0" ss:Color="#0096d6"/>
+		</Style>
+		<Style ss:ID="51">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#ffffff"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+			<Interior ss:Color="#ffc800" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="41">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#ffffff"/>
+			<Interior ss:Color="#87898b" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="24">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="16.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="54">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="14.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="28">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="21">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="28.0" ss:Color="#0096d6"/>
+		</Style>
+		<Style ss:ID="32">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Color="#87898b"/>
+		</Style>
+		<Style ss:ID="36">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#c0c0c0"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="37">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#c0c0c0"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="11.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="25" ss:Parent="HyperlinkId">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Underline="Single" ss:Color="#000000"/>
+		</Style>
+	</Styles>
+	<Names>
+		<NamedRange ss:Name="auto_generated_bookmark_0" ss:RefersTo="Report!R1C1:R4C13"/>
+		<NamedRange ss:Name="auto_generated_bookmark_2" ss:RefersTo="Report!R25C1:R36C13"/>
+		<NamedRange ss:Name="auto_generated_bookmark_9" ss:RefersTo="Report!R145C1"/>
+		<NamedRange ss:Name="auto_generated_bookmark_1" ss:RefersTo="Report!R5C1:R24C12"/>
+		<NamedRange ss:Name="auto_generated_bookmark_8" ss:RefersTo="Report!R140C1"/>
+		<NamedRange ss:Name="__bookmark_19" ss:RefersTo="Report!R53C1:R103C13"/>
+		<NamedRange ss:Name="__bookmark_17" ss:RefersTo="Report!R50C1"/>
+		<NamedRange ss:Name="__bookmark_16" ss:RefersTo="Report!R43C1:R49C11"/>
+		<NamedRange ss:Name="__bookmark_15" ss:RefersTo="Report!R39C1:R49C13"/>
+		<NamedRange ss:Name="__bookmark_37" ss:RefersTo="Report!R176C1"/>
+		<NamedRange ss:Name="__bookmark_14" ss:RefersTo="Report!R35C1"/>
+		<NamedRange ss:Name="__bookmark_36" ss:RefersTo="Report!R175C1"/>
+		<NamedRange ss:Name="__bookmark_35" ss:RefersTo="Report!R172C1"/>
+		<NamedRange ss:Name="__bookmark_12" ss:RefersTo="Report!R35C1:R34C13"/>
+		<NamedRange ss:Name="__bookmark_34" ss:RefersTo="Report!R169C1"/>
+		<NamedRange ss:Name="auto_generated_bookmark_4" ss:RefersTo="Report!R112C1"/>
+		<NamedRange ss:Name="__bookmark_33" ss:RefersTo="Report!R158C1:R166C13"/>
+		<NamedRange ss:Name="__bookmark_10" ss:RefersTo="Report!R28C5"/>
+		<NamedRange ss:Name="__bookmark_32" ss:RefersTo="Report!R147C1:R155C13"/>
+		<NamedRange ss:Name="__bookmark_31" ss:RefersTo="Report!R142C1:R144C13"/>
+		<NamedRange ss:Name="__bookmark_30" ss:RefersTo="Report!R135C1:R139C13"/>
+		<NamedRange ss:Name="auto_generated_bookmark_3" ss:RefersTo="Report!R51C1:R108C13"/>
+		<NamedRange ss:Name="auto_generated_bookmark_12" ss:RefersTo="Report!R170C1"/>
+		<NamedRange ss:Name="auto_generated_bookmark_5" ss:RefersTo="Report!R117C1"/>
+		<NamedRange ss:Name="auto_generated_bookmark_10" ss:RefersTo="Report!R156C1"/>
+		<NamedRange ss:Name="bm_project_description" ss:RefersTo="Report!R37C1:R50C13"/>
+		<NamedRange ss:Name="auto_generated_bookmark_14" ss:RefersTo="Report!R110C1:R176C13"/>
+		<NamedRange ss:Name="auto_generated_bookmark_13" ss:RefersTo="Report!R173C1"/>
+		<NamedRange ss:Name="__bookmark_9" ss:RefersTo="Report!R27C5"/>
+		<NamedRange ss:Name="__bookmark_29" ss:RefersTo="Report!R130C1:R132C13"/>
+		<NamedRange ss:Name="__bookmark_6" ss:RefersTo="Report!R27C1:R33C4"/>
+		<NamedRange ss:Name="__bookmark_28" ss:RefersTo="Report!R119C1:R127C13"/>
+		<NamedRange ss:Name="__bookmark_27" ss:RefersTo="Report!R114C1:R116C13"/>
+		<NamedRange ss:Name="__bookmark_26" ss:RefersTo="Report!R112C1:R175C13"/>
+		<NamedRange ss:Name="__bookmark_7" ss:RefersTo="Report!R27C5:R26C13"/>
+		<NamedRange ss:Name="__bookmark_25" ss:RefersTo="Report!R112C1:R175C13"/>
+		<NamedRange ss:Name="__bookmark_24" ss:RefersTo="Report!R110C1:R176C13"/>
+		<NamedRange ss:Name="__bookmark_23" ss:RefersTo="Report!R109C1"/>
+		<NamedRange ss:Name="__bookmark_4" ss:RefersTo="Report!R10C1:R19C12"/>
+		<NamedRange ss:Name="__bookmark_21" ss:RefersTo="Report!R104C1"/>
+		<NamedRange ss:Name="__bookmark_20" ss:RefersTo="Report!R53C1:R103C13"/>
+		<NamedRange ss:Name="auto_generated_bookmark_7" ss:RefersTo="Report!R133C1"/>
+		<NamedRange ss:Name="auto_generated_bookmark_6" ss:RefersTo="Report!R128C1"/>
+		<NamedRange ss:Name="auto_generated_bookmark_11" ss:RefersTo="Report!R167C1"/>
+	</Names>
+
+<Worksheet ss:Name="Report">
+	<ss:Table>
+		<ss:Column ss:Width="129.92" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="12.544" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="51.84" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="75.648" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.64" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="77.312" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="36.864" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="3.968" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.432" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.432" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="6.144" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="41.216" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="2.944" ss:AutoFitWidth="0"/>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="12">
+				<Data ss:Type="String">Fortify Standalone Report Generator</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="12">
+				<Data ss:Type="String">OWASP Mobile 2014</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22" ss:MergeAcross="12">
+				<Data ss:Type="String">settletopFortifyScan</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="11">
+				<Data ss:Type="String">Table of Contents</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="23" ss:MergeDown="19"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_2" ss:MergeAcross="11">
+				<Data ss:Type="String">Executive Summary</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#bm_project_description" ss:MergeAcross="11">
+				<Data ss:Type="String">Project Description</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_3" ss:MergeAcross="11">
+				<Data ss:Type="String">Issue Breakdown</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_14" ss:MergeAcross="11">
+				<Data ss:Type="String">Issue Summaries</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_4" ss:MergeAcross="11">
+				<Data ss:Type="String">M1 Weak Server Side Controls</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_5" ss:MergeAcross="11">
+				<Data ss:Type="String">M2 Insecure Data Storage</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_6" ss:MergeAcross="11">
+				<Data ss:Type="String">M3 Insufficient Transport Layer Protection</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_7" ss:MergeAcross="11">
+				<Data ss:Type="String">M4 Unintended Data Leakage</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_8" ss:MergeAcross="11">
+				<Data ss:Type="String">M5 Poor Authorization and Authentication</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_9" ss:MergeAcross="11">
+				<Data ss:Type="String">M6 Broken Cryptography</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_10" ss:MergeAcross="11">
+				<Data ss:Type="String">M7 Client Side Injection</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_11" ss:MergeAcross="11">
+				<Data ss:Type="String">M8 Security Decisions Via Untrusted Inputs</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_12" ss:MergeAcross="11">
+				<Data ss:Type="String">M9 Improper Session Handling</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#auto_generated_bookmark_13" ss:MergeAcross="11">
+				<Data ss:Type="String">M10 Lack of Binary Protections</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#bm_key_terminology" ss:MergeAcross="11">
+				<Data ss:Type="String">Description of Key Terminology</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25" ss:HRef="#bm_about" ss:MergeAcross="11">
+				<Data ss:Type="String">About Fortify Solutions</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="11"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="11"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="11">
+				<Data ss:Type="String">© Copyright [2008-2019] Micro Focus or one of its affiliates. The only warranties for products and services of Micro Focus and its affiliates and licensors (“Micro Focus”) are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. Micro Focus shall not be liable for technical or editorial errors or omissions contained herein. The information contained herein is subject to change without notice.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="12">
+				<Data ss:Type="String">Executive Summary</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">The OWASP Mobile Top 10 Risks 2014 provides a powerful awareness document for mobile application security. The OWASP Mobile Top 10 represents a broad consensus about what the most critical mobile application security flaws are. Project members include a variety of security experts from around the world who have shared their expertise to produce this list.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">Project Name:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="29" ss:MergeAcross="1">
+				<Data ss:Type="String">settletopFortifyScan</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="31" ss:MergeAcross="8"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">Project Version:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="29" ss:MergeAcross="1">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="31" ss:MergeAcross="8" ss:MergeDown="5"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">SCA:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="29" ss:MergeAcross="1">
+				<Data ss:Type="String">Results Present</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">WebInspect:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="29" ss:MergeAcross="1">
+				<Data ss:Type="String">Results Not Present</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">WebInspect Agent:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="29" ss:MergeAcross="1">
+				<Data ss:Type="String">Results Not Present</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">Other:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="29" ss:MergeAcross="1">
+				<Data ss:Type="String">Results Not Present</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">Remediation Effort (Hrs):</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="30" ss:MergeAcross="1">
+				<Data ss:Type="Number">70.72</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="32" ss:MergeAcross="12">
+				<Data ss:Type="String">* The detailed sections following the Executive Summary contain specifics.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="12">
+				<Data ss:Type="String">Project Description</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">This section provides an overview of the Fortify scan engines used for this project, as well as the project meta-information.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="33" ss:MergeAcross="12">
+				<Data ss:Type="String">SCA</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28">
+				<Data ss:Type="String">Date of Last Analysis:</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="29" ss:MergeAcross="3">
+				<Data ss:Type="String">Dec 4, 2020, 9:17 PM</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">Engine Version:</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29" ss:MergeAcross="5">
+				<Data ss:Type="String">19.2.0.0196</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28">
+				<Data ss:Type="String">Host Name:</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="29" ss:MergeAcross="3">
+				<Data ss:Type="String">ip-172-31-44-186</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">Certification:</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29" ss:MergeAcross="5">
+				<Data ss:Type="String">VALID</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28">
+				<Data ss:Type="String">Number of Files:</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="29" ss:MergeAcross="3">
+				<Data ss:Type="String">3,104</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="28" ss:MergeAcross="1">
+				<Data ss:Type="String">Lines of Code:</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29" ss:MergeAcross="5">
+				<Data ss:Type="String">223,632</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">Rulepack Name</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">Rulepack Version</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="34" ss:MergeAcross="1" ss:MergeDown="6"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="36" ss:MergeAcross="5">
+				<Data ss:Type="String">Fortify Secure Coding Rules, Extended, Configuration</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="36" ss:MergeAcross="4">
+				<Data ss:Type="String">2020.1.0.0009</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="36" ss:MergeAcross="5">
+				<Data ss:Type="String">Fortify Secure Coding Rules, Core, JavaScript</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="36" ss:MergeAcross="4">
+				<Data ss:Type="String">2020.1.0.0009</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="36" ss:MergeAcross="5">
+				<Data ss:Type="String">Fortify Secure Coding Rules, Extended, JavaScript</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="36" ss:MergeAcross="4">
+				<Data ss:Type="String">2020.1.0.0009</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="36" ss:MergeAcross="5">
+				<Data ss:Type="String">Fortify Secure Coding Rules, Extended, Content</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="36" ss:MergeAcross="4">
+				<Data ss:Type="String">2020.1.0.0009</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="36" ss:MergeAcross="5"/>
+			<Cell ss:Index="7" ss:StyleID="36" ss:MergeAcross="4"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="37" ss:MergeAcross="5"/>
+			<Cell ss:Index="7" ss:StyleID="37" ss:MergeAcross="4"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="37" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="12">
+				<Data ss:Type="String">Issue BreakDown</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">The following table summarizes the number of issues identified across the different OWASP Mobile 2014 categories and broken down by Fortify Priority Order.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="40" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M1 Weak Server Side Controls</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">2.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.3</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M2 Insecure Data Storage</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">14.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.9</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">14</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M3 Insufficient Transport Layer Protection</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">41.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">2.78</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">41</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M4 Unintended Data Leakage</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">96.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">24.72</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">96</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M5 Poor Authorization and Authentication</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">52.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">13.9</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">52</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M6 Broken Cryptography</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">404.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">25.87</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">318</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">59</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">27</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M7 Client Side Injection</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">118.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">10.85</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">117</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">1</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M8 Security Decisions Via Untrusted Inputs</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M9 Improper Session Handling</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">M10 Lack of Binary Protections</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="51" ss:MergeAcross="4">
+				<Data ss:Type="String">Medium</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="53" ss:MergeAcross="12">
+				<Data ss:Type="String">NOTE: </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="53" ss:MergeAcross="12">
+				<Data ss:Type="String">1. Reported issues in the above table may violate more than one OWASP Mobile 2014 category. As such, the same issue may appear in more than one row. The total number of unique vulnerabilities are reported in the Executive Summary table. </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="53" ss:MergeAcross="12">
+				<Data ss:Type="String">2. For the same reason, the Project-level remediation effort total shown in the Executive Summary removes the effect of any duplication and may be smaller than the sum of the remediation effort per individual category. </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="53" ss:MergeAcross="12">
+				<Data ss:Type="String">3. Similarly, the remediation effort per external category is not intended to equal the sum of the remediation effort from the issue details section since individual files may contain issues in multiple Fortify priorities or audit folders.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="12">
+				<Data ss:Type="String">Issue Summaries</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Below is an enumeration of all issues found in the project. The issues are organized by OWASP Mobile 2014, Folder, and vulnerability category. For every vulnerability category, the number of issues is shown.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M1 Weak Server Side Controls</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Weak Server Side Controls category of the OWASP Mobile Top 10 represents all the vulnerabilities that exist on the server side of the mobile ecosystem. When the backend web service or an API call that exposes a mobile interface is implemented using insecure coding practices, a mobile attacker is able to realize the original OWASP Top Ten vulnerability on the server.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2">
+				<Data ss:Type="String">Fortify Category</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Open Redirect</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">2.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.3</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M2 Insecure Data Storage</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Insecure Data Storage vulnerabilities occur when sensitive information is stored in an insecure location on the device without any protection. On most mobile devices internal and external storage areas are not encrypted by default, allowing malicious applications and physical attackers unauthorized access to data residing on the device.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2">
+				<Data ss:Type="String">Fortify Category</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Password Management: Null Password</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">2.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.2</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Password Management: Password in Comment</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">7.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.32</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">7</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">System Information Leak: External</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">2.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.13</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">System Information Leak: Internal</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">3.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.25</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">3</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M3 Insufficient Transport Layer Protection</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Insufficient Transport Layer Protection flaws occur whenever data is exchanged between a mobile client and a server in an insecure fashion. Incorrect usage of SSL/TLS protocols and lack of certificate validation are examples of such flaws.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2">
+				<Data ss:Type="String">Fortify Category</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Insecure Transport</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">41.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">2.78</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">41</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M4 Unintended Data Leakage</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Unintended Data Leakage occurs when sensitive data is inadvertently placed in an insecure location on the device, usually as a side effect of another operation, such as keyboard caching or placing an application in the background.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2">
+				<Data ss:Type="String">Fortify Category</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">JavaScript Hijacking</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">19.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">4.02</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">19</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">JavaScript Hijacking: Vulnerable Framework</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">77.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">20.7</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">77</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M5 Poor Authorization and Authentication</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Poor authentication schemes and privilege management mechanisms allow an attacker to get unauthorized access to resources on the mobile device or execute functionality on the device or the backend server they otherwise would not have access to.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2">
+				<Data ss:Type="String">Fortify Category</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Cross-Site Request Forgery</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">52.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">13.9</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">52</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M6 Broken Cryptography</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Many mobile applications use weak encryption algorithms and poor key management processes to protect sensitive data, such as UDID/EMEI, personal data, and authentication credentials. Attackers may steal or modify such weakly protected data to conduct credit card fraud, identity theft, or other crimes.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2">
+				<Data ss:Type="String">Fortify Category</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Key Management: Hardcoded Encryption Key</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">318.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">20.9</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">318</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Insecure Randomness</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">58.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">4.57</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">58</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Key Management: Empty Encryption Key</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">1.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.15</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="48" ss:MergeAcross="4">
+				<Data ss:Type="String">High</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">1</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Key Management: Null Encryption Key</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">27.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">3.45</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">27</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M7 Client Side Injection</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Client Side Injection results in the execution of malicious code on the mobile device. Usually such attacks exercise various injection vulnerabilities, such as SQL Injection, Dangerous File Inclusion, Cross-Site Scripting, and target user data and mobile browsers.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="38" ss:MergeAcross="2">
+				<Data ss:Type="String">Fortify Category</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="String">Folder</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="40">
+				<Data ss:Type="String">Issues</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="40">
+				<Data ss:Type="String">Audited</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="String">Effort (Hrs)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Command Injection</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">86.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">9.2</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">86</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Cross-Site Scripting: DOM</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">29.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">1.38</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">29</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">JSON Injection</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">2.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.23</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="44" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="45" ss:MergeAcross="4">
+				<Data ss:Type="String">Critical</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="46">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="46">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="47" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="String">Hardcoded Domain in HTML</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="42">
+				<Data ss:Type="Number">1.0</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="42">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="43" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.13</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="34" ss:MergeAcross="2"/>
+			<Cell ss:Index="4" ss:StyleID="52" ss:MergeAcross="4">
+				<Data ss:Type="String">Low</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="49">
+				<Data ss:Type="String">1</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="49">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="50" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M8 Security Decisions Via Untrusted Inputs</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">In addition to accepting input from the web and other traditional sources, mobile applications also accept input from other mobile applications residing on the device via the Inter-Process Communication (IPC) or the Inter-Component Communication (ICC) mechanisms. Many traditional web vulnerabilities can be triggered by IPC and ICC inputs on the device, which is why all inputs need to be thoroughly validated before being used for any security sensitive operations.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="55" ss:MergeAcross="12">
+				<Data ss:Type="String">No Issues</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M9 Improper Session Handling</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">Mobile application functionality related to authentication and session management is often implemented in an insecure fashion, allowing attackers to compromise passwords, keys, or session tokens. Other implementation flaws that allow attackers to assume other users' identities include failure to invalidate sessions on the backend and lack of adequate timeout protections.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="55" ss:MergeAcross="12">
+				<Data ss:Type="String">No Issues</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="12">
+				<Data ss:Type="String">M10 Lack of Binary Protections</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="27" ss:MergeAcross="12">
+				<Data ss:Type="String">A lack of binary protections within the mobile application or the use of debug binaries allows attackers to analyze, reverse engineer, and modify the application, potentially turning it into malware.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="55" ss:MergeAcross="12">
+				<Data ss:Type="String">No Issues</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="12"/>
+		</Row>
+	</ss:Table>
+	<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+		<PageSetup>
+			<PageMargins x:Bottom="0.0" x:Left="0.5" x:Right="0.5" x:Top="0.0"/>
+			<Layout x:Orientation="Portrait"/>
+			<Header/>
+			<Footer x:Data="&amp;L&amp;C&amp;&#34;Arial&#34;&amp;8&amp;K87898bDec 4, 2020, 9:22 PM&amp;&#34;Arial&#34;&amp;8&amp;K87898b© Copyright [2008-2019] Micro Focus or one of its affiliates.&amp;R&amp;&#34;Arial&#34;&amp;8&amp;K87898b&amp;P"/>
+		</PageSetup>
+		<Print>
+			<PaperSizeIndex>9</PaperSizeIndex>
+		</Print>
+	</WorksheetOptions>
+</Worksheet>
+</Workbook>
